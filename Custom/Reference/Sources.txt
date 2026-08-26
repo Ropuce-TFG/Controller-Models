@@ -1,0 +1,1 @@
+Arduino boards: https://github.com/FreeCAD/FreeCAD-library/blob/master/Electronics%20Parts/Boards/Arduino/freaduino-uno.fcstd
